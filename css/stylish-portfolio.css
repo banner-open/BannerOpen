@@ -31,6 +31,16 @@ body {
     color: #fff;
 }
 
+.text-vertical-center h3 {
+    color: #fff;
+}
+
+@media screen and (max-width: 800px) {
+    #logo img {
+        width: 75px;
+    }
+}
+
 #logo img {
     width: 120px;
 }
